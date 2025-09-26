@@ -1,4 +1,4 @@
-# AluraBooks
+# 📄 AluraBooks
 
 AluraBooks é um projeto de catálogo de livros desenvolvido em **JavaScript, HTML e CSS**, criado como parte dos estudos na plataforma **Alura**. O projeto consome dados de uma API externa e permite funcionalidades como:
 
@@ -8,7 +8,9 @@ AluraBooks é um projeto de catálogo de livros desenvolvido em **JavaScript, HT
 - Aplicar desconto automático nos livros
 - Visualizar o valor total dos livros disponíveis
 
-## Tecnologias utilizadas
+---
+
+## 🛠 Tecnologias utilizadas
 
 - HTML5
 - CSS3
@@ -16,7 +18,9 @@ AluraBooks é um projeto de catálogo de livros desenvolvido em **JavaScript, HT
 - Fetch API para consumir dados externos
 - Métodos JavaScript: `forEach`, `map`, `filter`, `reduce`, `sort`
 
-  ## Funcionalidades
+---
+
+## 🚀 Funcionalidades
 
 1. **Exibir livros na tela**  
    Todos os livros carregados da API são exibidos com título, autor, preço, imagem e categoria.
@@ -34,9 +38,7 @@ AluraBooks é um projeto de catálogo de livros desenvolvido em **JavaScript, HT
 5. **Calcular valor total de livros disponíveis**  
    Exibe o valor total de todos os livros disponíveis usando `reduce`.
 
-## Veja o vídeo da interface
-
-[Veja o vídeo da interface](demo.mp4)
+---
 
 ## Como executar
 
@@ -44,3 +46,4 @@ AluraBooks é um projeto de catálogo de livros desenvolvido em **JavaScript, HT
 
 ```bash
 git clone https://github.com/seu-usuario/AluraBooks.git
+
