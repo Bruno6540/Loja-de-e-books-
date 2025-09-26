@@ -40,10 +40,17 @@ AluraBooks é um projeto de catálogo de livros desenvolvido em **JavaScript, HT
 
 ---
 
+## Link do site
+
+https://loja-de-e-books.vercel.app/
+
+---
+
 ## Como executar
 
 1. Clone este repositório:
 
 ```bash
 git clone https://github.com/seu-usuario/AluraBooks.git
+
 
